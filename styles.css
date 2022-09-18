@@ -173,7 +173,8 @@ body {
     height: 6px;
     background: rgb(27, 20, 20);
     position: absolute;
-    top: 54.3%;
+    top: 46.2%;
+    left: -0.5%;
     transform-origin: 107.2%;
     transform: rotate(90deg);
     transition: .5s;

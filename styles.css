@@ -153,32 +153,3 @@ body {
     border-radius: 15px;
 }
 
-.hour-hand {
-    width: 120px;
-    height: 9px;
-    background: rgb(27, 20, 20);
-    position: absolute;
-    top: 39.5%;
-    left: 9%;
-    transform-origin: 145.9%;
-    transform: rotate(90deg);
-    transition: .5s;
-    transition-timing-function: cubic-bezier(0.1, 1, 0.08, 1);
-    font-weight: 700;
-    border-radius: 15px;
-}
-
-.min-hand {
-    width: 140px;
-    height: 6px;
-    background: rgb(27, 20, 20);
-    position: absolute;
-    top: 46.2%;
-    left: -0.5%;
-    transform-origin: 107.2%;
-    transform: rotate(90deg);
-    transition: .5s;
-    transition-timing-function: cubic-bezier(0.1, 1, 0.08, 1);
-    font-weight: 700;
-    border-radius: 15px;
-}
